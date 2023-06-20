@@ -7,7 +7,7 @@ import platform
 import html as h
 import http
 
-HOST = 'localhost'
+HOST = '172.18.1.89'
 PORT = 8000
 # DIRECTORY = '/home/gabriel'  # The directory you want to serve files from
 
